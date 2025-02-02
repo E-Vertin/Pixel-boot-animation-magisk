@@ -1,6 +1,8 @@
 # Pixel-boot-animation-magisk
 This simple Magisk module applies boot animations of Pixel phones. New Google Pixel (from 9 series on) Gemini boot animation and legacy will both be available here.
 
+The Google logo can only be used if you have an existing partnership or sponsorship and you’ve reached out to your Google contact to secure formal approval from the Google brand team. Please consult [Google Brand Resource Center](https://about.google/brand-resource-center/).
+
 *Legacy boot animation will be available soon*
 
 **ONLY VERIFIED ON LINEAGE OS 22.1 WITH APATCH**
