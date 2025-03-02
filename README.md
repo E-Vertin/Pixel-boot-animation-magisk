@@ -3,7 +3,7 @@ This simple Magisk module applies boot animations of Pixel phones. New Google Pi
 
 The Google logo can only be used if you have an existing partnership or sponsorship and you’ve reached out to your Google contact to secure formal approval from the Google brand team. Please consult [Google Brand Resource Center](https://about.google/brand-resource-center/).
 
-*Legacy boot animation will be available soon*
+*Legacy boot animation is available now in releases*
 
 **ONLY VERIFIED ON LINEAGE OS 22.1 WITH APATCH**
 
